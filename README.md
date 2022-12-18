@@ -1,7 +1,7 @@
 # Android_Mobile_Projects
 Aplicações desenvolvidas na matéria de dispositivos móveis realizado na instituição IFSC.
 
--Aplicativo Sortear : Aplicação de sorteio de números utilizando Android Studio e
+- Aplicativo Sortear : Aplicação de sorteio de números utilizando Android Studio e
 compreendendo os conceitos sobre a estrutura do projeto, chamada de métodos
 e iteração entre elementos da view com a Activity
 
